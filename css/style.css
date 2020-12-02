@@ -1,0 +1,7 @@
+.bg{
+    background: teal url(../images/bg.jpeg) fixed center;
+}
+td{
+    background-color: teal;
+    color: white;
+}
